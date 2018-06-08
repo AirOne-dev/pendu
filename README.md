@@ -14,6 +14,6 @@ Jeu français du pendu en Python
 
 ## Sur windows :
 
-**1) Téléchargez les 2 fichiers **
+**1) Téléchargez les 2 fichiers**
 
 **2) Exécutez pendu.bat (python doit être installé)**
