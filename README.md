@@ -9,7 +9,7 @@ Jeu français du pendu en Python
 
 **2) Exécutez le avec cette commmande (python doit être installé) :**
 
-`py ./pendu.py`
+`python3 ./pendu.py`
 
 
 ## Sur windows :
