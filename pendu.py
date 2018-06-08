@@ -1,4 +1,5 @@
 #!/usr/local/bin/python
+#created and developed by Firologame
 
 import os
 
@@ -69,3 +70,4 @@ while fin == 0 :
 		print("")
 		input("Appuyez sur la touche ENTREE pour quitter...")
 		break
+#created and developed by Firologame
